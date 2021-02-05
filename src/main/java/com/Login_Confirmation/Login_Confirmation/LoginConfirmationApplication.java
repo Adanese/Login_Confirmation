@@ -9,7 +9,7 @@ public class LoginConfirmationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LoginConfirmationApplication.class, args);
-		
+		System.out.print("demo");
 	}
 
 }
